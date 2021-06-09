@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 group-title="RedeCanais"
+https://m3u9.ml/a/hls1/hbo.m3u8?mu3zAQc9HC3GbwJq=29CvoKxWLmJG4MO4MFXIXA&3U1G7qaTxrPbalZnEx=1623261957
+#EXTINF:-1 group-title="RedeCanais1"
+https://m3u9.ml/a/hls1/hbo.m3u8
+#EXTINF:-1 group-title="RedeCanais2"
+https://lh3.googleusercontent.com/proxy/oOs_D9QojILYqihu0Y9pRg0dBbyWEImBMtaw2YjE4ZVAqkztdp5aAz2M465otT3ps-u7k4welQnmLVcWK5jUHpBIe42LCIx7SPfstwV4OGU=s0
+
+
